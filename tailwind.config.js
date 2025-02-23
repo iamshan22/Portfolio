@@ -33,7 +33,7 @@ module.exports = {
 			primary:'#1c1c22',
 			accent:{
 				DEFAULT:'#e60e0e',
-				hover:'#00e187',
+				hover:'#e60e0e',
 			}
   			
   		},
